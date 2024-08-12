@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sengwamana Emeran</h1>
 <h3 align="center">A Professional Software Engineer from Rwanda</h3>
 <p align="center">
-  <a href="https://twitter.com/yourtwitterhandle" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/yourtwitterhandle?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  <a href="https://twitter.com/Amalon-Post" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/Amalon Post?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
-  <a href="https://linkedin.com/in/yourlinkedinhandle" target="_blank">
+  <a href="https://www.linkedin.com/in/sengwa-emeran-220102317/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/nubibus.nubibus" target="_blank">
+  <a href="https://web.facebook.com/sengwamana.emelan/" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/yourinstagramhandle" target="_blank">
+  <a href="https://www.instagram.com/amalon_post/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 🚀 About Me
-🌱 I’m currently mastering Next.js, Node.js, Django
+🌱 I’m currently mastering Next.js, Node.js and Django
 
 🎯 Goals:
 
@@ -29,11 +29,12 @@ Lead or contribute to a project that wins a global innovation award by 2025.
   <img src="https://img.icons8.com/color/96/000000/medal.png" alt="Medal Icon" width="50" height="50"/> 
   <img src="https://img.icons8.com/color/96/000000/badge.png" alt="Badge Icon" width="50" height="50"/> 
 </p>
-Best Developer Award at [Hackathon Name], Rwanda, 2023.
-Top Innovator at [Tech Competition], Africa, 2022.
-Global Developer Challenge Winner in [Coding Challenge/Competition], Global, 2021.
-Open Source Excellence Award for contributions to [Open Source Project] with over 50,000 stars on GitHub.
-Innovation Leader for launching [Project Name], a full-stack application with over 100,000 users across [Region/Country].
+Best Developer Award at Hackathon - 2023 Edition, Rwanda, 2023.
+Top Innovator at Kigali - RWand, Africa, 2022.
+Global Developer Challenge Winner in THE ACM-ICPC INTERNATIONAL COLLEGIATE PROGRAMMING CONTEST
+, Global, 2021.
+Open Source Excellence Award for contributions to TensorFlow with over 50,000 stars on GitHub.
+Innovation Leader for launching  AI-Powered Personal Assistant, a full-stack application with over 100,000 users across Kigali,Rwanda.
 Tech Pioneer Award at [Tech Event], Africa, 2020.
 🎯 Milestones
 <p align="center">
@@ -44,7 +45,7 @@ Tech Pioneer Award at [Tech Event], Africa, 2020.
 Reached 10,000+ GitHub stars across all repositories.
 Mentored over 50 junior developers who are now professionals.
 Built and deployed 10+ production-level applications for various industries.
-Recognized as a Top Contributor on Stack Overflow for [specific technology/language].
+Recognized as a Top Contributor on Stack Overflow for JavaScript.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sengwamana&show_icons=true&theme=tokyonight" alt="Sengwamana's GitHub Stats" />
 </p>
