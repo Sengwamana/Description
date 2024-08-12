@@ -1,8 +1,13 @@
+Your README profile has a solid structure and effectively highlights your professional accomplishments, skills, and goals. Here's a refined version with a few adjustments to ensure clarity, alignment, and consistency:
+
+---
+
 <h1 align="center">Hi 👋, I'm Sengwamana Emeran</h1>
 <h3 align="center">A Professional Software Engineer from Rwanda</h3>
+
 <p align="center">
   <a href="https://twitter.com/Amalon-Post" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/Amalon Post?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+    <img src="https://img.shields.io/twitter/follow/Amalon_Post?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
   <a href="https://www.linkedin.com/in/sengwa-emeran-220102317/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
@@ -14,42 +19,55 @@
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-🚀 About Me
-🌱 I’m currently mastering Next.js, Node.js and Django
 
-🎯 Goals:
+---
 
-Innovate and develop scalable software solutions for emerging markets.
-Mentor and empower the next generation of software engineers in Africa.
-Contribute to open-source projects that impact millions globally.
-Lead or contribute to a project that wins a global innovation award by 2025.
-🏆 Achievements & Awards
+### 🚀 About Me
+- 🌱 I’m currently mastering **Next.js, Node.js, and Django**.
+
+### 🎯 Goals:
+- Innovate and develop scalable software solutions for emerging markets.
+- Mentor and empower the next generation of software engineers in Africa.
+- Contribute to open-source projects that impact millions globally.
+- Lead or contribute to a project that wins a global innovation award by 2025.
+
+---
+
+### 🏆 Achievements & Awards
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/trophy.png" alt="Trophy Icon" width="50" height="50"/> 
   <img src="https://img.icons8.com/color/96/000000/medal.png" alt="Medal Icon" width="50" height="50"/> 
   <img src="https://img.icons8.com/color/96/000000/badge.png" alt="Badge Icon" width="50" height="50"/> 
 </p>
-Best Developer Award at Hackathon - 2023 Edition, Rwanda, 2023.
-Top Innovator at Kigali - Rwanda, Africa, 2022.
-Global Developer Challenge Winner in the ACM-ICPC INTERNATIONAL COLLEGIATE PROGRAMMING CONTEST
-, Global, 2021.
-Open Source Excellence Award for contributions to TensorFlow with over 50,000 stars on GitHub.
-Innovation Leader for launching  AI-Powered Personal Assistant, a full-stack application with over 100,000 users across Kigali,Rwanda.
-Tech Pioneer Award at Dublin Tech Summit, Ireland, 2020.
-🎯 Milestones
+
+- **Best Developer Award** at Hackathon - 2023 Edition, Rwanda.
+- **Top Innovator** at Kigali - Rwanda, Africa, 2022.
+- **Global Developer Challenge Winner** in the ACM-ICPC International Collegiate Programming Contest, 2021.
+- **Open Source Excellence Award** for contributions to TensorFlow with over 50,000 stars on GitHub.
+- **Innovation Leader** for launching AI-Powered Personal Assistant, a full-stack application with over 100,000 users across Kigali, Rwanda.
+- **Tech Pioneer Award** at Dublin Tech Summit, Ireland, 2020.
+
+---
+
+### 🎯 Milestones
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/goal.png" alt="Goal Icon" width="50" height="50"/> 
   <img src="https://img.icons8.com/color/96/000000/checked.png" alt="Checkmark Icon" width="50" height="50"/> 
   <img src="https://img.icons8.com/color/96/000000/target.png" alt="Target Icon" width="50" height="50"/> 
 </p>
-Reached 10,000+ GitHub stars across all repositories.
-Mentored over 50 junior developers who are now professionals.
-Built and deployed 10+ production-level applications for various industries.
-Recognized as a Top Contributor on Stack Overflow for JavaScript.
+
+- Reached **10,000+ GitHub stars** across all repositories.
+- Mentored **over 50 junior developers** who are now professionals.
+- Built and deployed **10+ production-level applications** for various industries.
+- Recognized as a **Top Contributor on Stack Overflow** for JavaScript.
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sengwamana&show_icons=true&theme=tokyonight" alt="Sengwamana's GitHub Stats" />
 </p>
-<h3 align="left">Connect with me:</h3>
+
+---
+
+### 🌐 Connect with me:
 <p align="left">
   <a href="https://twitter.com/yourtwitterhandle" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
@@ -64,7 +82,10 @@ Recognized as a Top Contributor on Stack Overflow for JavaScript.
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+
+---
+
+### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
