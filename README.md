@@ -22,18 +22,29 @@
 Innovate and develop scalable software solutions for emerging markets.
 Mentor and empower the next generation of software engineers in Africa.
 Contribute to open-source projects that impact millions globally.
-👨‍💻 Check out my projects at my GitHub profile
-
-💬 Feel free to ask me about React, TypeScript
-
-📫 You can reach me at sengwamanaemeran@gmail.com
-
+Lead or contribute to a project that wins a global innovation award by 2025.
 🏆 Achievements & Awards
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/trophy.png" alt="Trophy Icon" width="50" height="50"/> 
+  <img src="https://img.icons8.com/color/96/000000/medal.png" alt="Medal Icon" width="50" height="50"/> 
+  <img src="https://img.icons8.com/color/96/000000/badge.png" alt="Badge Icon" width="50" height="50"/> 
+</p>
 Best Developer Award at [Hackathon Name], Rwanda, 2023.
 Top Innovator at [Tech Competition], Africa, 2022.
-Successfully led and launched [Project Name], a full-stack application used by over 10,000 users across [Region/Country].
-Contributed to [Open Source Project], which has now reached over 50,000 stars on GitHub.
-First Place in [Coding Challenge/Competition], Global, 2021.
+Global Developer Challenge Winner in [Coding Challenge/Competition], Global, 2021.
+Open Source Excellence Award for contributions to [Open Source Project] with over 50,000 stars on GitHub.
+Innovation Leader for launching [Project Name], a full-stack application with over 100,000 users across [Region/Country].
+Tech Pioneer Award at [Tech Event], Africa, 2020.
+🎯 Milestones
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/goal.png" alt="Goal Icon" width="50" height="50"/> 
+  <img src="https://img.icons8.com/color/96/000000/checked.png" alt="Checkmark Icon" width="50" height="50"/> 
+  <img src="https://img.icons8.com/color/96/000000/target.png" alt="Target Icon" width="50" height="50"/> 
+</p>
+Reached 10,000+ GitHub stars across all repositories.
+Mentored over 50 junior developers who are now professionals.
+Built and deployed 10+ production-level applications for various industries.
+Recognized as a Top Contributor on Stack Overflow for [specific technology/language].
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sengwamana&show_icons=true&theme=tokyonight" alt="Sengwamana's GitHub Stats" />
 </p>
