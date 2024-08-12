@@ -30,12 +30,12 @@ Lead or contribute to a project that wins a global innovation award by 2025.
   <img src="https://img.icons8.com/color/96/000000/badge.png" alt="Badge Icon" width="50" height="50"/> 
 </p>
 Best Developer Award at Hackathon - 2023 Edition, Rwanda, 2023.
-Top Innovator at Kigali - RWand, Africa, 2022.
-Global Developer Challenge Winner in THE ACM-ICPC INTERNATIONAL COLLEGIATE PROGRAMMING CONTEST
+Top Innovator at Kigali - Rwanda, Africa, 2022.
+Global Developer Challenge Winner in the ACM-ICPC INTERNATIONAL COLLEGIATE PROGRAMMING CONTEST
 , Global, 2021.
 Open Source Excellence Award for contributions to TensorFlow with over 50,000 stars on GitHub.
 Innovation Leader for launching  AI-Powered Personal Assistant, a full-stack application with over 100,000 users across Kigali,Rwanda.
-Tech Pioneer Award at [Tech Event], Africa, 2020.
+Tech Pioneer Award at Dublin Tech Summit, Ireland, 2020.
 🎯 Milestones
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/goal.png" alt="Goal Icon" width="50" height="50"/> 
