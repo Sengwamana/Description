@@ -14,14 +14,26 @@
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-🌱 I’m currently learning Next.js, Node.js, Django
+🚀 About Me
+🌱 I’m currently mastering Next.js, Node.js, Django
 
+🎯 Goals:
+
+Innovate and develop scalable software solutions for emerging markets.
+Mentor and empower the next generation of software engineers in Africa.
+Contribute to open-source projects that impact millions globally.
 👨‍💻 Check out my projects at my GitHub profile
 
 💬 Feel free to ask me about React, TypeScript
 
 📫 You can reach me at sengwamanaemeran@gmail.com
 
+🏆 Achievements & Awards
+Best Developer Award at [Hackathon Name], Rwanda, 2023.
+Top Innovator at [Tech Competition], Africa, 2022.
+Successfully led and launched [Project Name], a full-stack application used by over 10,000 users across [Region/Country].
+Contributed to [Open Source Project], which has now reached over 50,000 stars on GitHub.
+First Place in [Coding Challenge/Competition], Global, 2021.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sengwamana&show_icons=true&theme=tokyonight" alt="Sengwamana's GitHub Stats" />
 </p>
